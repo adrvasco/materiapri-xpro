@@ -1,0 +1,26 @@
+{
+  "name": "Mat\u00e9ria Prima XPRO33",
+  "short_name": "Mat. Prima",
+  "description": "Controle de estoque de mat\u00e9ria prima XPRO33 Cosm\u00e9ticos",
+  "start_url": "/materiapri-xpro/",
+  "scope": "/materiapri-xpro/",
+  "display": "standalone",
+  "background_color": "#0f1117",
+  "theme_color": "#0f1117",
+  "orientation": "portrait",
+  "lang": "pt-BR",
+  "icons": [
+    {
+      "src": "mp-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "mp-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
